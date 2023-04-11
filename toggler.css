@@ -1,0 +1,13 @@
+.show{
+	z-index: 2;
+    background: white;
+}
+
+.main{
+
+	z-index: 0;
+
+}
+.navbar-nav{
+    margin: 0;
+}
